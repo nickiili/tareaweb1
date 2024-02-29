@@ -1,0 +1,88 @@
+*
+{
+    margin: 10px;
+}
+#principal
+{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 500px;
+    height: 480px;
+    background: rgb(170, 161, 244);
+}
+#caja1
+{
+    border-style:solid;
+    border-radius: 50%;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background: rgb(253, 252, 253)
+}
+.ojos
+{
+    display: flex;
+}
+#ojos1
+{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: rgb(9, 9, 9);
+}
+#ojos2
+{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: rgb(9, 9, 9);
+}
+#nariz
+{
+    margin: auto;
+    border-radius: 50%;
+    width: 10px;
+    height:30px;
+    background-color: orange;
+
+}
+#caja2
+{
+    border-style:solid;
+    margin: auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background: rgb(255, 251, 254);
+}
+#manos1
+{
+    margin: 50px;
+    border-radius: 50%;
+    width: 100px;
+    height:5px;
+    background-color: rgb(46, 23, 2); 
+}
+#manos2
+{
+    margin-left: -80px;
+    border-radius: 50%;
+    width: 100px;
+    height:5px;
+    background-color: rgb(46, 23, 2); 
+}
+
+#caja3
+{
+    border-style: solid;
+    margin: auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background: rgb(248, 250, 248);
+}
+
+
+
